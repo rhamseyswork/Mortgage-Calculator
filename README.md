@@ -1,11 +1,10 @@
 <h1>#Mortgage-Calculator</h1>
 <p>This is a basic Mortgage calculator</p>
-<h3>### How to navigate to the `website` branch</h3>
+### How to navigate to the `website` branch
 
-<p>1. Clone the repository if you haven't already:</p>
+1. Clone the repository if you haven't already:
    ```sh
    git clone https://github.com/your-username/your-repository.git
-   
 =======================================
 <h2>##Software Notes</h2>
 -----------------------
